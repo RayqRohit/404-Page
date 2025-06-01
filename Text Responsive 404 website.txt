@@ -12,5 +12,5 @@ We can't seem to find the page <br> you are looking for.
 Go Home
 
 .home__footer
-(554) 987-654
+(554) 987-6543
 info@company.com
